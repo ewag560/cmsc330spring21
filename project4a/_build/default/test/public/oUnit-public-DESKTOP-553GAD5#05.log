@@ -1,0 +1,12 @@
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Start test public:4:public_expr_apply.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Test public:4:public_expr_apply is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: End test public:4:public_expr_apply.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Start test public:17:public_expr_simple_sum.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Test public:17:public_expr_simple_sum is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: End test public:17:public_expr_simple_sum.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Start test public:20:public_expr_single_fun.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Test public:20:public_expr_single_fun is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: End test public:20:public_expr_single_fun.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Start test public:27:public_expr_single_string.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: Test public:27:public_expr_single_string is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#05 I: End test public:27:public_expr_single_string.

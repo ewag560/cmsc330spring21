@@ -1,0 +1,6 @@
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#01 I: Start test public:0:nfa_accept.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#01 I: Test public:0:nfa_accept is successful.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#01 I: End test public:0:nfa_accept.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#01 I: Start test public:7:nfa_new_trans.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#01 I: Test public:7:nfa_new_trans is successful.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#01 I: End test public:7:nfa_new_trans.

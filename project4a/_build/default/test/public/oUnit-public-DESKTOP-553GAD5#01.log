@@ -1,0 +1,15 @@
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Start test public:0:public_nothing.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Test public:0:public_nothing is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: End test public:0:public_nothing.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Start test public:7:public_expr_let_fun.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Test public:7:public_expr_let_fun is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: End test public:7:public_expr_let_fun.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Start test public:11:public_rec_function_factorial.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Test public:11:public_rec_function_factorial is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: End test public:11:public_rec_function_factorial.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Start test public:21:public_expr_single_if.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Test public:21:public_expr_single_if is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: End test public:21:public_expr_single_if.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Start test public:29:public_err_mutop_nested_def.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: Test public:29:public_err_mutop_nested_def is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#01 I: End test public:29:public_err_mutop_nested_def.

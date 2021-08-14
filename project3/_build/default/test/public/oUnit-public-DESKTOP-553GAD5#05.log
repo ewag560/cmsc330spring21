@@ -1,0 +1,6 @@
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#05 I: Start test public:4:re_to_nfa.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#05 I: Test public:4:re_to_nfa is successful.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#05 I: End test public:4:re_to_nfa.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#05 I: Start test public:9:regex_to_nfa.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#05 I: Test public:9:regex_to_nfa is successful.
+2021-03-30T18:52:55+00:00 DESKTOP-553GAD5#05 I: End test public:9:regex_to_nfa.

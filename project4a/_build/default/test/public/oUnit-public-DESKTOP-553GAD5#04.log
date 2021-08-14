@@ -1,0 +1,18 @@
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Start test public:3:public_expr_add1.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Test public:3:public_expr_add1 is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: End test public:3:public_expr_add1.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Start test public:10:public_expr_sub1.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Test public:10:public_expr_sub1 is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: End test public:10:public_expr_sub1.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Start test public:14:public_expr_simple_div.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Test public:14:public_expr_simple_div is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: End test public:14:public_expr_simple_div.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Start test public:19:public_expr_single_bool.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Test public:19:public_expr_single_bool is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: End test public:19:public_expr_single_bool.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Start test public:22:public_expr_single_let.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Test public:22:public_expr_single_let is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: End test public:22:public_expr_single_let.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Start test public:26:public_expr_single_or.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: Test public:26:public_expr_single_or is successful.
+2021-05-11T01:37:26+00:00 DESKTOP-553GAD5#04 I: End test public:26:public_expr_single_or.
