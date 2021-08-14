@@ -1,0 +1,9 @@
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Start test public:1:abs.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Test public:1:abs is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: End test public:1:abs.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Start test public:8:next_prime.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Test public:8:next_prime is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: End test public:8:next_prime.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Start test public:13:is_palindrome.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Test public:13:is_palindrome is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: End test public:13:is_palindrome.

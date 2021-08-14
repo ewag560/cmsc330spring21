@@ -1,0 +1,12 @@
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: Start test public:3:test_abs_positive_definiteness.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: law test_abs_positive_definiteness: 10 relevant cases (10 total)
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: Test public:3:test_abs_positive_definiteness is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: End test public:3:test_abs_positive_definiteness.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: Start test public:9:test_pow_pos.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: law test_pow_pos: 30 relevant cases (30 total)
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: Test public:9:test_pow_pos is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#04 I: End test public:9:test_pow_pos.

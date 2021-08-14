@@ -1,0 +1,18 @@
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: Start test public:2:test_abs_non_negativity.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: law test_abs_non_negativity: 10 relevant cases (10 total)
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: Test public:2:test_abs_non_negativity is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: End test public:2:test_abs_non_negativity.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: Start test public:6:test_area_positive.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: law test_area_positive: 10 relevant cases (10 total)
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: Test public:6:test_area_positive is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: End test public:6:test_area_positive.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: Start test public:11:test_rev_lst.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: law test_rev_lst: 30 relevant cases (30 total)
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: Test public:11:test_rev_lst is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#03 I: End test public:11:test_rev_lst.

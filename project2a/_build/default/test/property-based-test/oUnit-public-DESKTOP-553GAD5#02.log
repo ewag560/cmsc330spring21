@@ -1,0 +1,12 @@
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Start test public:1:test_rev_twice.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: law test_rev_twice: 25 relevant cases (25 total)
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Test public:1:test_rev_twice is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: End test public:1:test_rev_twice.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Start test public:8:test_fib_geq_z.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: law test_fib_geq_z: 20 relevant cases (20 total)
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: 
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: Test public:8:test_fib_geq_z is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#02 I: End test public:8:test_fib_geq_z.

@@ -1,0 +1,9 @@
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: Start test public:4:fibonacci.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: Test public:4:fibonacci is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: End test public:4:fibonacci.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: Start test public:10:larger.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: Test public:10:larger is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: End test public:10:larger.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: Start test public:11:reverse.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: Test public:11:reverse is successful.
+2021-02-22T16:28:51+00:00 DESKTOP-553GAD5#05 I: End test public:11:reverse.

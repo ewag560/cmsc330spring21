@@ -1,0 +1,99 @@
+open Funs
+
+(*************************************)
+(* Part 2: Three-Way Search Tree *)
+(*************************************)
+
+type int_tree =
+  | IntLeaf
+  | IntNode of int * int option * int_tree * int_tree * int_tree 
+
+let empty_int_tree = IntLeaf
+
+let rec int_mem x t =
+match t with
+    | IntLeaf -> false
+    | IntNode (i,io,t1,t2,t3)-> if i = x ||
+    (match io with None -> false | Some q -> q = x)
+    then true else int_mem x t1 || int_mem x t2 || int_mem x t3
+;;
+
+
+
+
+let rec insert x t = match t with
+    | IntLeaf -> IntNode (x, None, IntLeaf, IntLeaf, IntLeaf)
+    | IntNode (i,io,t1,t2,t3)-> match io with
+        | None -> if x > i then IntNode (i,Some x,t1,t2,t3) else
+            IntNode (x, Some i, t1, t2, t3)
+        | Some io -> if x < i then IntNode (i,Some io, insert x t1, t2, t3)
+            else if x > io then IntNode (i,Some io, t1, t2, insert x t3)
+            else IntNode (i, Some io, t1, insert x t2, t3)
+;;
+
+let rec int_insert x t =
+    if ((int_mem x t) = false) then
+        t else insert x t
+;;
+
+let rec int_mem x t =
+match t with
+    | IntLeaf -> false
+    | IntNode (i,io,t1,t2,t3)-> if i = x ||
+    (match io with None -> false | Some q -> q = x)
+    then true else int_mem x t1 || int_mem x t2 || int_mem x t3
+;;
+
+let rec int_size t =
+  failwith "unimplemented"
+
+let rec int_max t = match t with
+    | IntLeaf -> raise (Invalid_argument("int_max"))
+    | IntNode(i,io,t1,t2,t3)-> match t3 with
+        | IntNode(a,b,c,d,e) -> int_max t3
+	| IntLeaf -> match io with
+            | None-> i
+            | Some x -> x
+;;
+
+(*******************************)
+(* Part 3: Three-Way Search Tree-Based Map *)
+(*******************************)
+
+type 'a tree_map =
+  | MapLeaf
+  | MapNode of (int * 'a) * (int * 'a) option * 'a tree_map * 'a tree_map * 'a tree_map
+
+let empty_tree_map = MapLeaf
+
+let rec map_put k v t = 
+  failwith "unimplemented"
+
+let rec map_contains k t = 
+  failwith "unimplemented"
+
+let rec map_get k t =
+  failwith "unimplemented"
+
+(***************************)
+(* Part 4: Variable Lookup *)
+(***************************)
+
+type lookup_table = (string * int) list list
+
+let empty_table = []
+
+let push_scope (table:lookup_table) : lookup_table = 
+  failwith "unimplemented"
+
+let pop_scope (table:lookup_table) : lookup_table =
+  failwith "unimplemented"
+
+let var_exists name scope = 
+  failwith "unimplemented"
+
+let add_var name value (table:lookup_table) : lookup_table =
+  failwith "unimplemented"
+
+let rec lookup name (table:lookup_table) =
+  failwith "unimplemented"

@@ -1,0 +1,34 @@
+class PhoneBook
+
+  attr_reader :names, :numbers, :listings
+
+  def initialize
+    @names = Array.new
+    @numbers = Array.new
+    @listings = Array.new
+  end
+
+  def add(name, number, is_listed)
+    if names.include?(name) == true then
+      return false
+    end
+
+    if number[0,3].to_i.to_s != number[0,3] || number[4,3].to_i.to_s != number[4,3] || number[8,4].to_i.to_s != number[8,4] then
+      return false
+    end
+    if number[3] != '-' || number [7] != '-' then
+      return false
+    end
+
+    i = numbers.rindex(number)
+    if i != nil && listings[i] == true then
+      return false
+    end
+
+    names.push(name)
+    numbers.push(number)
+    listings.push(is_listed)
+    return true
+  end
+
+end
